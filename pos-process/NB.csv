@@ -1,0 +1,4 @@
+useKernelEstimator, useSupervisedDiscretization, Acurácia
+false, false, 32.0755%
+true, false, 30.1887%
+false, true, 32.0755%
